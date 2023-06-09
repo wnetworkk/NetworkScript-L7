@@ -12,7 +12,7 @@ git clone https://github.com/502sh/NetworkScript-L7.git
 
 cd NetworkScript/
 
-python3 NetworkScript-L7/
+python3 NetworkScript/
 
 ---------- Contact --------
 
