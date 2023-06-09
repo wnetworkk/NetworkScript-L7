@@ -4,7 +4,7 @@ L7 HTTP/1.1 METHODS
 
 PROOF MADE JUST 1 VPS 2GB RAM 
 
-![image](https://github.com/502sh/NetworkScript-L7/assets/121850416/fdd42246-bda8-4143-bb3f-640045c4612a)
+![image](https://github.com/502sh/NetworkScript-L7/assets/121850416/14097485-bdc8-40ce-81ec-2e8c76bd960c)
 
 ---------- command ---------
 
