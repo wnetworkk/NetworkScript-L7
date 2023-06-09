@@ -10,7 +10,7 @@ PROOF MADE JUST 1 VPS 2GB RAM
 
 git clone https://github.com/502sh/NetworkScript-L7.git
 
-cd NetworkScript.py/
+cd NetworkScript/
 
 python3 NetworkScript-L7/
 
