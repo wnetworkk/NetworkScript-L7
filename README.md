@@ -16,4 +16,4 @@ python3 NetworkScript/
 
 ---------- Contact --------
 
-Discord : </wnetwork#1337
+Discord : wnet#1337
